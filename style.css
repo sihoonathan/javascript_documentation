@@ -2,6 +2,7 @@
     position: relative;
     font-family: "Open Sans", Arial, sans-serif;
     height: 100vh;
+    line-height: 1.4rem;
 }
 
 nav {
@@ -82,6 +83,7 @@ ul li {
         height: 45%;
         background-color: white;
     }
+
     nav header {
         position: static;
         height: 20%;
@@ -98,15 +100,20 @@ ul li {
         position: static;
         height: 55%;
     }
-
-
-
-
-
-
-
-
 }
 
+code {
+    font-family: monospace;
+    display: block;
+    text-align: left;
+    position: relative;
+    word-break: normal;
+    word-wrap: normal;
+    line-height: 2;
+    background-color: #f7f7f7;
+    padding: 15px;
+    margin: 10px;
+    border-radius: 5px;
+}
 
 
