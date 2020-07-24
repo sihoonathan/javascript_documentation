@@ -1,4 +1,4 @@
-# js_documentation
+# javascript_documentation
   
 ### Javascript Documentation - [View in Browser](https://sihoonathan.github.io/javascript_documentation/)
 ![screenshot](screenshot.png)
